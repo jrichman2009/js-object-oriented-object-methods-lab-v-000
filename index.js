@@ -9,5 +9,10 @@ function BoardMember(name, homestate, training) {
     return "I like to help people."
   }
 
+  this.approve = function() {
+    return "You can do that!"
+
+  }
+
 
 }
