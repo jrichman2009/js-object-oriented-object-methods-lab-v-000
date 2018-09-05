@@ -5,6 +5,9 @@ function BoardMember(name, homestate, training) {
   this.veto = function() {
     return "No, I must disagree"
   }
+  this.doCharity() function {
+    return "I like to help people."
+  }
 
 
 }
