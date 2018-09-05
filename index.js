@@ -3,7 +3,7 @@ function BoardMember(name, homestate, training) {
   this.homeState = homestate
   this.training = training
   this.veto = function() {
-    return "No I must disagree"
+    return "No, I must disagree"
   }
 
 
