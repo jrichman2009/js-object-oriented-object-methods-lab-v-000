@@ -15,9 +15,11 @@ function BoardMember(name, homestate, training) {
   }
 
   this.releasePressStatement = function () {
-    return "You will see great things from Scuber"
+    return "You will see great things from Scuber."
 
   }
+
+
 
 
 }
